@@ -1,4 +1,4 @@
-# FsharpPlusTest
+# FSharpPlusTest
 
 An example of code using FSharpPlus which generates internal errors “Undefined or unsolved type variable” during build.
 
@@ -22,7 +22,8 @@ or
 
 ## Related information
 
-dotnet SDK 8.0.203
-FSharpPlus 1.6.1
+`dotnet SDK` 8.0.203
+
+`FSharpPlus` 1.6.1
 
 
